@@ -3,7 +3,7 @@ FROM ubuntu
 
 # Define variáveis de ambiente para o usuário
 # Você pode mudar 'meuusuario' para o nome que preferir
-ARG USER_NAME=scripjohn
+ARG USER_NAME=meuusuario
 ARG USER_UID=1001
 ARG USER_GID=1001
 
